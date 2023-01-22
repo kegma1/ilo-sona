@@ -1,0 +1,1294 @@
+[
+  {
+    "word": "a",
+    "defs": {
+      "PARTICLE": ["emotional interjection", "emphasis", "confirmation"]
+    },
+    "alias": "kin"
+  },
+  {
+    "word": "akesi",
+    "defs": { "NOUN": ["non-cute animal", "reptile", "amphibian"] },
+    "alias": null
+  },
+  {
+    "word": "ala",
+    "defs": {
+      "NOUN": ["nothing"],
+      "ADJECTIVE": ["not", "no", "empty"],
+      "NUMBER": ["0", "zero"]
+    },
+    "alias": null
+  },
+  {
+    "word": "alasa",
+    "defs": {
+      "VERB": [
+        "hunt",
+        "gather",
+        "forage",
+        "(unconventional) search",
+        "(unconventional) look for"
+      ]
+    },
+    "alias": null
+  },
+  {
+    "word": "ale",
+    "defs": {
+      "NOUN": ["abundance", "everything", "life", "universe"],
+      "ADJECTIVE": [
+        "all",
+        "abundant",
+        "countless",
+        "bountiful",
+        "every",
+        "plentiful"
+      ],
+      "NUMBER": ["all/infinite (simple system)", "100 (complex system)"]
+    },
+    "alias": "ali"
+  },
+  {
+    "word": "anpa",
+    "defs": {
+      "ADJECTIVE": ["bowing down", "downward", "humble", "lowly", "dependent"],
+      "NOUN": ["(old/non-pu) lower part"],
+      "VERB": [
+        "(without object) to bow down",
+        "(with object) to conquer",
+        "to defeat"
+      ]
+    },
+    "alias": null
+  },
+  {
+    "word": "ante",
+    "defs": {
+      "ADJECTIVE": ["different", "altered", "changed", "other"],
+      "NOUN": ["difference", "change", "(unconventional) version"],
+      "VERB": ["to change"]
+    },
+    "alias": null
+  },
+  { "word": "anu", "defs": { "PARTICLE": ["or"] }, "alias": null },
+  {
+    "word": "awen",
+    "defs": {
+      "ADJECTIVE": [
+        "kept",
+        "protected",
+        "safe",
+        "enduring",
+        "resilient",
+        "waiting",
+        "staying"
+      ],
+      "PRE-VERB": ["to continue to (do something)"],
+      "NOUN": ["(unconventional) stability", "safety", "wait"],
+      "VERB": ["keep", "stay", "endure", "protect"]
+    },
+    "alias": null
+  },
+  {
+    "word": "e",
+    "defs": { "PARTICLE": ["before the direct object"] },
+    "alias": null
+  },
+  {
+    "word": "en",
+    "defs": { "PARTICLE": ["and", "between multiple subjects"] },
+    "alias": null
+  },
+  {
+    "word": "esun",
+    "defs": {
+      "NOUN": [
+        "trade",
+        "transaction",
+        "exchange",
+        "market",
+        "shop",
+        "fair",
+        "bazaar"
+      ],
+      "ADJECTIVE": ["trade/exchange-related", "commercial"],
+      "VERB": ["to trade", "to exchange"]
+    },
+    "alias": null
+  },
+  {
+    "word": "ijo",
+    "defs": {
+      "NOUN": ["thing", "phenomenon", "object", "matter"],
+      "ADJECTIVE": ["material", "physical"]
+    },
+    "alias": null
+  },
+  {
+    "word": "ike",
+    "defs": {
+      "ADJECTIVE": [
+        "bad",
+        "evil",
+        "negative",
+        "complex",
+        "non-essential",
+        "unnecessary",
+        "irrelevant"
+      ],
+      "NOUN": ["evil"],
+      "VERB": ["(unconventional) make something worse"]
+    },
+    "alias": null
+  },
+  {
+    "word": "ilo",
+    "defs": {
+      "NOUN": ["tool", "implement", "machine", "device"],
+      "ADJECTIVE": ["useful", "(unconventional) electronic", "metallic"]
+    },
+    "alias": null
+  },
+  {
+    "word": "insa",
+    "defs": {
+      "NOUN": [
+        "center",
+        "content",
+        "inside",
+        "between",
+        "internal organ",
+        "stomach"
+      ],
+      "ADJECTIVE": ["central", "inside", "between"]
+    },
+    "alias": null
+  },
+  {
+    "word": "jaki",
+    "defs": {
+      "ADJECTIVE": [
+        "dirty",
+        "disgusting",
+        "unclean",
+        "unsanitary",
+        "toxic",
+        "obscene",
+        "sickly"
+      ],
+      "NOUN": ["dirt", "waste"],
+      "VERB": ["to make something dirty"]
+    },
+    "alias": null
+  },
+  {
+    "word": "jan",
+    "defs": {
+      "NOUN": ["somebody", "person", "human being", "people", "humanity"],
+      "ADJECTIVE": ["human-like", "personal"]
+    },
+    "alias": null
+  },
+  {
+    "word": "jelo",
+    "defs": {
+      "ADJECTIVE": ["yellow", "yellowish"],
+      "NOUN": ["yellow (and its shades)"],
+      "VERB": ["color something yellow"]
+    },
+    "alias": null
+  },
+  {
+    "word": "jo",
+    "defs": {
+      "VERB": ["have", "carry", "contain", "hold"],
+      "NOUN": ["(unconventional) possessions", "property"]
+    },
+    "alias": null
+  },
+  {
+    "word": "kala",
+    "defs": { "NOUN": ["fish", "marine animal", "sea creature"] },
+    "alias": null
+  },
+  {
+    "word": "kalama",
+    "defs": {
+      "VERB": [
+        "produce sound",
+        "make noise",
+        "to play (an instrument)",
+        "recite",
+        "utter aloud"
+      ],
+      "NOUN": ["sound", "noise"],
+      "ADJECTIVE": ["loud", "noisy", "sound-making"]
+    },
+    "alias": null
+  },
+  {
+    "word": "kama",
+    "defs": {
+      "PRE-VERB": [
+        "become",
+        "be in the process of (doing something)",
+        "manage to",
+        "succeed in"
+      ],
+      "NOUN": ["event", "arrival"],
+      "ADJECTIVE": ["arriving", "coming", "future", "summoned"]
+    },
+    "alias": null
+  },
+  {
+    "word": "kasi",
+    "defs": { "NOUN": ["plant", "vegetation", "herb", "leaf", "grass"] },
+    "alias": null
+  },
+  {
+    "word": "ken",
+    "defs": {
+      "PRE-VERB": ["be able to", "be allowed to", "can", "may"],
+      "ADJECTIVE": ["possible", "(unconventional) able"],
+      "NOUN": ["ability", "possibility", "(unconventional) right", "liberty"]
+    },
+    "alias": null
+  },
+  {
+    "word": "kepeken",
+    "defs": {
+      "PREPOSITION": [
+        "to use",
+        "with",
+        "by means of",
+        "(do something) using",
+        "with the help of"
+      ],
+      "NOUN": ["use", "(unconventional) practice"],
+      "VERB": ["(with object) to use something"]
+    },
+    "alias": null
+  },
+  {
+    "word": "kili",
+    "defs": { "NOUN": ["fruit", "vegetable", "mushroom"] },
+    "alias": null
+  },
+  {
+    "word": "kiwen",
+    "defs": {
+      "NOUN": ["hard object", "metal", "rock", "stone", "solid"],
+      "ADJECTIVE": ["hard", "metallic", "solid"]
+    },
+    "alias": null
+  },
+  {
+    "word": "ko",
+    "defs": {
+      "NOUN": [
+        "clay",
+        "clinging form",
+        "dough",
+        "semi-solid",
+        "paste",
+        "powder"
+      ]
+    },
+    "alias": null
+  },
+  {
+    "word": "kon",
+    "defs": {
+      "NOUN": [
+        "air",
+        "breath",
+        "essence",
+        "spirit",
+        "hidden reality",
+        "unseen agent",
+        "(unconventional) gas"
+      ],
+      "ADJECTIVE": ["invisible", "ephemeral", "(unconventional) gaseous"]
+    },
+    "alias": null
+  },
+  {
+    "word": "kule",
+    "defs": {
+      "ADJECTIVE": ["colorful", "pigmented", "painted"],
+      "NOUN": ["color", "(rare) gender"],
+      "VERB": ["to paint something a color"]
+    },
+    "alias": null
+  },
+  {
+    "word": "kulupu",
+    "defs": {
+      "NOUN": ["group", "community", "company", "society", "nation", "tribe"],
+      "ADJECTIVE": ["communal", "social"]
+    },
+    "alias": null
+  },
+  {
+    "word": "kute",
+    "defs": {
+      "NOUN": ["ear", "hearing"],
+      "VERB": ["to hear", "listen", "pay attention to", "obey"],
+      "ADJECTIVE": ["\u2026-sounding"]
+    },
+    "alias": null
+  },
+  {
+    "word": "la",
+    "defs": {
+      "PARTICLE": [
+        "if, when (introduces context",
+        "between the context phrase and the main sentence"
+      ]
+    },
+    "alias": null
+  },
+  {
+    "word": "lape",
+    "defs": {
+      "ADJECTIVE": ["sleeping", "resting", "restful"],
+      "NOUN": ["sleep", "rest"],
+      "VERB": ["sleep", "rest"]
+    },
+    "alias": null
+  },
+  {
+    "word": "laso",
+    "defs": {
+      "ADJECTIVE": ["blue", "green"],
+      "NOUN": ["blue", "green"],
+      "VERB": ["color something blue/green"]
+    },
+    "alias": null
+  },
+  {
+    "word": "lawa",
+    "defs": {
+      "VERB": [
+        "head",
+        "control",
+        "direct",
+        "guide",
+        "lead",
+        "own",
+        "plan",
+        "regulate",
+        "rule"
+      ],
+      "NOUN": ["head", "mind"],
+      "ADJECTIVE": ["main", "primary", "controlling", "ruling"]
+    },
+    "alias": null
+  },
+  {
+    "word": "len",
+    "defs": {
+      "NOUN": [
+        "cloth",
+        "clothes",
+        "fabric",
+        "textile",
+        "cover",
+        "layer of privacy"
+      ],
+      "ADJECTIVE": ["clothed", "made of cloth/fabric"],
+      "VERB": ["to clothe", "to provide a layer of privacy"]
+    },
+    "alias": null
+  },
+  {
+    "word": "lete",
+    "defs": {
+      "ADJECTIVE": ["cold", "cool", "uncooked", "raw"],
+      "NOUN": ["cold"],
+      "VERB": ["cool down"]
+    },
+    "alias": null
+  },
+  { "word": "li", "defs": { "PARTICLE": [] }, "alias": null },
+  {
+    "word": "lili",
+    "defs": {
+      "ADJECTIVE": ["little", "small", "short", "few", "a bit", "young"],
+      "NOUN": ["smallness"],
+      "VERB": ["to shrink"]
+    },
+    "alias": null
+  },
+  {
+    "word": "linja",
+    "defs": {
+      "NOUN": [
+        "long flexible thing",
+        "string",
+        "cord",
+        "hair",
+        "rope",
+        "thread",
+        "yarn"
+      ]
+    },
+    "alias": null
+  },
+  {
+    "word": "lipu",
+    "defs": {
+      "NOUN": [
+        "flat object",
+        "book",
+        "document",
+        "page",
+        "card",
+        "paper",
+        "record",
+        "website"
+      ],
+      "ADJECTIVE": ["flat", "used as lipu", "lipu-like", "of lipu"]
+    },
+    "alias": null
+  },
+  {
+    "word": "loje",
+    "defs": {
+      "ADJECTIVE": ["red", "reddish"],
+      "NOUN": ["red"],
+      "VERB": ["color something red"]
+    },
+    "alias": null
+  },
+  {
+    "word": "lon",
+    "defs": {
+      "PREPOSITION": [
+        "in",
+        "at",
+        "on",
+        "located at",
+        "present at",
+        "real",
+        "true",
+        "existing"
+      ],
+      "NOUN": ["truth", "life", "existence"],
+      "ADJECTIVE": ["real", "true", "present", "existing"],
+      "VERB": ["(without object) is true", "exists"]
+    },
+    "alias": null
+  },
+  {
+    "word": "luka",
+    "defs": {
+      "NOUN": ["arm", "hand", "tactile organ"],
+      "NUMBER": ["5", "five (complex system)"]
+    },
+    "alias": null
+  },
+  {
+    "word": "lukin",
+    "defs": {
+      "NOUN": ["eye", "vision"],
+      "VERB": ["look at", "see", "examine", "observe", "read", "watch"],
+      "PRE-VERB": ["seek", "look for", "try to"],
+      "ADJECTIVE": ["\u2026-looking", "visual"]
+    },
+    "alias": "oko"
+  },
+  {
+    "word": "lupa",
+    "defs": { "NOUN": ["door", "hole", "orifice", "window"] },
+    "alias": null
+  },
+  {
+    "word": "ma",
+    "defs": {
+      "NOUN": [
+        "earth",
+        "land",
+        "outdoors",
+        "world",
+        "country",
+        "territory",
+        "soil"
+      ]
+    },
+    "alias": null
+  },
+  {
+    "word": "mama",
+    "defs": {
+      "NOUN": [
+        "parent",
+        "ancestor",
+        "creator",
+        "origin",
+        "originator",
+        "caretaker",
+        "sustainer"
+      ],
+      "VERB": ["create", "parent", "take care of"]
+    },
+    "alias": null
+  },
+  {
+    "word": "mani",
+    "defs": {
+      "NOUN": [
+        "money",
+        "cash",
+        "savings",
+        "wealth",
+        "large domesticated animal"
+      ],
+      "ADJECTIVE": ["(unconventional) wealthy"]
+    },
+    "alias": null
+  },
+  {
+    "word": "meli",
+    "defs": {
+      "NOUN": ["woman", "female", "feminine person", "wife"],
+      "ADJECTIVE": ["feminine"]
+    },
+    "alias": null
+  },
+  {
+    "word": "mi",
+    "defs": { "NOUN": ["I", "me", "we", "us"], "ADJECTIVE": ["my", "our"] },
+    "alias": null
+  },
+  {
+    "word": "mije",
+    "defs": {
+      "NOUN": ["man", "male", "masculine person", "husband"],
+      "ADJECTIVE": ["masculine"]
+    },
+    "alias": null
+  },
+  {
+    "word": "moku",
+    "defs": {
+      "VERB": ["eat", "drink", "consume", "swallow", "ingest"],
+      "NOUN": ["food"],
+      "ADJECTIVE": ["edible", "of food"]
+    },
+    "alias": null
+  },
+  {
+    "word": "moli",
+    "defs": {
+      "ADJECTIVE": ["dead", "dying"],
+      "NOUN": ["death"],
+      "VERB": ["to kill"]
+    },
+    "alias": null
+  },
+  {
+    "word": "monsi",
+    "defs": {
+      "NOUN": ["back", "behind", "rear", "butt"],
+      "ADJECTIVE": ["back", "rear"]
+    },
+    "alias": null
+  },
+  {
+    "word": "mu",
+    "defs": {
+      "PARTICLE": ["animal noise or communication", "any animal sound"]
+    },
+    "alias": null
+  },
+  {
+    "word": "mun",
+    "defs": {
+      "NOUN": ["moon", "star", "night sky object"],
+      "ADJECTIVE": ["lunar", "stellar"]
+    },
+    "alias": null
+  },
+  {
+    "word": "musi",
+    "defs": {
+      "ADJECTIVE": [
+        "artistic",
+        "entertaining",
+        "amusing",
+        "frivolous",
+        "playful",
+        "recreational"
+      ],
+      "NOUN": ["game", "art"],
+      "VERB": ["amuse", "play", "have fun"]
+    },
+    "alias": null
+  },
+  {
+    "word": "mute",
+    "defs": {
+      "ADJECTIVE": ["many", "a lot", "more", "much", "several", "very"],
+      "NOUN": ["quantity"],
+      "NUMBER": ["3 or more (simple system)", "20 (complex system)"]
+    },
+    "alias": null
+  },
+  {
+    "word": "nanpa",
+    "defs": {
+      "PARTICLE": ["-th (ordinal number"],
+      "ADJECTIVE": ["mathematical", "numeric", "(unconventional) digital"],
+      "NOUN": ["number"]
+    },
+    "alias": null
+  },
+  {
+    "word": "nasa",
+    "defs": {
+      "ADJECTIVE": [
+        "weird",
+        "unusual",
+        "strange",
+        "foolish",
+        "crazy",
+        "drunk",
+        "intoxicated"
+      ]
+    },
+    "alias": null
+  },
+  {
+    "word": "nasin",
+    "defs": {
+      "NOUN": [
+        "way",
+        "custom",
+        "doctrine",
+        "directive",
+        "method",
+        "path",
+        "road",
+        "street"
+      ],
+      "ADJECTIVE": ["street-", "true to the directive/way/custom"],
+      "VERB": ["(unconventional) to guide", "to show the path"]
+    },
+    "alias": null
+  },
+  {
+    "word": "nena",
+    "defs": {
+      "NOUN": ["bump", "button", "hill", "mountain", "nose", "protuberance"],
+      "ADJECTIVE": ["hilly", "mountainous", "bumpy"]
+    },
+    "alias": null
+  },
+  {
+    "word": "ni",
+    "defs": { "ADJECTIVE": ["this", "that"], "NOUN": ["this", "that"] },
+    "alias": null
+  },
+  { "word": "nimi", "defs": { "NOUN": ["name", "word"] }, "alias": null },
+  {
+    "word": "noka",
+    "defs": {
+      "NOUN": [
+        "foot",
+        "leg",
+        "organ of locomotion",
+        "bottom",
+        "lower part",
+        "under (something)"
+      ]
+    },
+    "alias": null
+  },
+  {
+    "word": "o",
+    "defs": { "PARTICLE": ["hey! o!", "addressing somebody", "command"] },
+    "alias": null
+  },
+  {
+    "word": "olin",
+    "defs": {
+      "VERB": ["love", "have compassion for", "respect", "show affection to"],
+      "NOUN": ["love", "compassion", "affection", "respect"],
+      "ADJECTIVE": ["loved", "favorite", "respected"]
+    },
+    "alias": null
+  },
+  {
+    "word": "ona",
+    "defs": {
+      "NOUN": ["he", "she", "it", "they"],
+      "ADJECTIVE": ["his", "her", "their", "its"]
+    },
+    "alias": null
+  },
+  {
+    "word": "open",
+    "defs": {
+      "VERB": ["begin", "start", "open", "turn on"],
+      "NOUN": ["start", "beginning"],
+      "ADJECTIVE": ["initial", "starting"],
+      "PRE-VERB": ["begin (doing something)"]
+    },
+    "alias": null
+  },
+  {
+    "word": "pakala",
+    "defs": {
+      "ADJECTIVE": [
+        "botched",
+        "broken",
+        "damaged",
+        "harmed",
+        "messed up",
+        "wrong"
+      ],
+      "NOUN": ["damage", "mistake"],
+      "VERB": ["to break", "to make mistakes"],
+      "PARTICLE": ["generic curse"]
+    },
+    "alias": null
+  },
+  {
+    "word": "pali",
+    "defs": {
+      "VERB": ["do", "take action on", "work on", "build", "make", "prepare"],
+      "NOUN": ["work", "labor"],
+      "ADJECTIVE": ["working"]
+    },
+    "alias": null
+  },
+  {
+    "word": "palisa",
+    "defs": {
+      "NOUN": [
+        "long hard thing",
+        "branch",
+        "rod",
+        "stick",
+        "(unconventional) length"
+      ],
+      "ADJECTIVE": ["long"]
+    },
+    "alias": null
+  },
+  {
+    "word": "pan",
+    "defs": {
+      "NOUN": [
+        "cereal",
+        "grain",
+        "barley",
+        "corn",
+        "oat",
+        "rice",
+        "wheat",
+        "bread",
+        "pasta",
+        "pizza"
+      ]
+    },
+    "alias": null
+  },
+  {
+    "word": "pana",
+    "defs": {
+      "VERB": ["give", "send", "emit", "provide", "put", "release"],
+      "ADJECTIVE": ["(unconventional) given", "sent", "released"]
+    },
+    "alias": null
+  },
+  {
+    "word": "pi",
+    "defs": { "PARTICLE": ["of", "regroup two or more modifiers"] },
+    "alias": null
+  },
+  {
+    "word": "pilin",
+    "defs": {
+      "NOUN": ["heart", "feeling", "touch", "sense"],
+      "ADJECTIVE": ["feeling", "an emotion", "a direct experience"],
+      "VERB": ["touch", "think", "feel"]
+    },
+    "alias": null
+  },
+  {
+    "word": "pimeja",
+    "defs": {
+      "ADJECTIVE": ["black", "dark", "unlit"],
+      "NOUN": ["black", "shadow"],
+      "VERB": ["color something black", "cast a shadow"]
+    },
+    "alias": null
+  },
+  {
+    "word": "pini",
+    "defs": {
+      "ADJECTIVE": ["ago", "completed", "ended", "finished", "final", "past"],
+      "NOUN": ["end", "finish"],
+      "VERB": ["to end", "to finish", "to close"],
+      "PRE-VERB": ["to end/stop doing something"]
+    },
+    "alias": null
+  },
+  {
+    "word": "pipi",
+    "defs": { "NOUN": ["bug", "insect", "ant", "spider"] },
+    "alias": null
+  },
+  {
+    "word": "poka",
+    "defs": {
+      "NOUN": ["hip", "side", "next to", "nearby", "vicinity", "nearby area"],
+      "ADJECTIVE": ["neighboring", "nearby", "at one\u2019s side"]
+    },
+    "alias": null
+  },
+  {
+    "word": "poki",
+    "defs": {
+      "NOUN": [
+        "container",
+        "bag",
+        "bowl",
+        "box",
+        "cup",
+        "cupboard",
+        "drawer",
+        "vessel"
+      ],
+      "VERB": ["(unconventional) to put in a box"]
+    },
+    "alias": null
+  },
+  {
+    "word": "pona",
+    "defs": {
+      "ADJECTIVE": [
+        "good",
+        "positive",
+        "useful",
+        "friendly",
+        "peaceful",
+        "simple"
+      ],
+      "NOUN": ["good", "simplicity"],
+      "VERB": ["to improve", "to fix"]
+    },
+    "alias": null
+  },
+  {
+    "word": "pu",
+    "defs": {
+      "ADJECTIVE": ["interacting with", "the official Toki Pona book"],
+      "NOUN": ["the official Toki Pona book"],
+      "VERB": ["interacting with the official Toki Pona book"]
+    },
+    "alias": null
+  },
+  {
+    "word": "sama",
+    "defs": {
+      "ADJECTIVE": [
+        "same",
+        "similar",
+        "like",
+        "each other",
+        "sibling",
+        "peer",
+        "fellow"
+      ],
+      "PREPOSITION": ["as", "like"],
+      "NOUN": ["similarity", "(someone\u2019s) sibling"]
+    },
+    "alias": null
+  },
+  {
+    "word": "seli",
+    "defs": {
+      "ADJECTIVE": ["warm", "hot"],
+      "NOUN": [
+        "heat",
+        "warmth",
+        "fire",
+        "cooking element",
+        "chemical reaction",
+        "heat source"
+      ],
+      "VERB": ["to heat"]
+    },
+    "alias": null
+  },
+  {
+    "word": "selo",
+    "defs": {
+      "NOUN": [
+        "outer form",
+        "outer layer",
+        "bark",
+        "peel",
+        "shell",
+        "skin",
+        "boundary"
+      ],
+      "ADJECTIVE": ["outer"]
+    },
+    "alias": null
+  },
+  {
+    "word": "seme",
+    "defs": { "PARTICLE": ["what? which? (for questions)"] },
+    "alias": null
+  },
+  {
+    "word": "sewi",
+    "defs": {
+      "NOUN": [
+        "area above",
+        "top",
+        "highest part",
+        "something elevated",
+        "sky",
+        "god"
+      ],
+      "ADJECTIVE": [
+        "high",
+        "above",
+        "awe-inspiring",
+        "divine",
+        "sacred",
+        "supernatural"
+      ]
+    },
+    "alias": null
+  },
+  {
+    "word": "sijelo",
+    "defs": {
+      "NOUN": ["body (of person or animal)", "physical state", "torso"],
+      "ADJECTIVE": ["physical", "of sijelo"]
+    },
+    "alias": null
+  },
+  {
+    "word": "sike",
+    "defs": {
+      "NOUN": [
+        "round/circular thing",
+        "ball",
+        "circle",
+        "cycle",
+        "sphere",
+        "wheel"
+      ],
+      "ADJECTIVE": ["round", "circular", "spherical", "of one year"],
+      "VERB": ["to make a circle around"]
+    },
+    "alias": null
+  },
+  {
+    "word": "sin",
+    "defs": {
+      "ADJECTIVE": ["new", "fresh", "additional", "another", "extra"],
+      "NOUN": ["novelty", "addition", "(unconventional) update", "spice"],
+      "VERB": ["to add", "to update"]
+    },
+    "alias": "namako"
+  },
+  {
+    "word": "sina",
+    "defs": { "NOUN": ["you"], "ADJECTIVE": ["your"] },
+    "alias": null
+  },
+  {
+    "word": "sinpin",
+    "defs": {
+      "NOUN": ["face", "foremost part", "front", "wall"],
+      "ADJECTIVE": ["of face", "foremost"]
+    },
+    "alias": null
+  },
+  {
+    "word": "sitelen",
+    "defs": {
+      "NOUN": [
+        "image",
+        "picture",
+        "representation",
+        "symbol",
+        "mark",
+        "writing"
+      ],
+      "ADJECTIVE": ["symbolic", "written", "recorded"],
+      "VERB": ["to write", "to draw", "to record"]
+    },
+    "alias": null
+  },
+  {
+    "word": "sona",
+    "defs": {
+      "VERB": ["know", "be skilled in", "be wise about", "have information on"],
+      "PRE-VERB": ["know how to"],
+      "NOUN": ["knowledge", "information"],
+      "ADJECTIVE": ["known"]
+    },
+    "alias": null
+  },
+  {
+    "word": "soweli",
+    "defs": { "NOUN": ["animal", "beast", "land mammal"] },
+    "alias": null
+  },
+  {
+    "word": "suli",
+    "defs": {
+      "ADJECTIVE": [
+        "big",
+        "heavy",
+        "large",
+        "long",
+        "tall",
+        "important",
+        "great",
+        "adult"
+      ],
+      "NOUN": ["size", "greatness"],
+      "VERB": ["to grow"]
+    },
+    "alias": null
+  },
+  {
+    "word": "suno",
+    "defs": {
+      "NOUN": [
+        "sun",
+        "light",
+        "brightness",
+        "glow",
+        "radiance",
+        "shine",
+        "light source"
+      ],
+      "ADJECTIVE": ["solar", "bright"],
+      "VERB": ["to light", "to shine"]
+    },
+    "alias": null
+  },
+  {
+    "word": "supa",
+    "defs": {
+      "NOUN": ["horizontal surface", "thing to put or rest something on"]
+    },
+    "alias": null
+  },
+  {
+    "word": "suwi",
+    "defs": {
+      "ADJECTIVE": ["sweet", "fragrant", "cute", "innocent", "adorable"],
+      "NOUN": ["(unconventional) sweets", "fragrances"]
+    },
+    "alias": null
+  },
+  {
+    "word": "tan",
+    "defs": {
+      "PREPOSITION": ["by", "from", "because of"],
+      "NOUN": ["cause", "reason", "origin"],
+      "ADJECTIVE": ["original"],
+      "VERB": ["(with object) (unconventional) to cause"]
+    },
+    "alias": null
+  },
+  {
+    "word": "taso",
+    "defs": {
+      "PARTICLE": ["(at beginning of sentence)", "but", "however"],
+      "ADJECTIVE": ["only"]
+    },
+    "alias": null
+  },
+  {
+    "word": "tawa",
+    "defs": {
+      "PREPOSITION": [
+        "going to",
+        "toward",
+        "to",
+        "for",
+        "from the perspective of"
+      ],
+      "ADJECTIVE": ["moving"],
+      "NOUN": ["movement"],
+      "VERB": ["to move"]
+    },
+    "alias": null
+  },
+  {
+    "word": "telo",
+    "defs": {
+      "NOUN": ["water", "liquid", "fluid", "wet substance", "beverage"],
+      "ADJECTIVE": ["wet", "fluid", "liquid"],
+      "VERB": ["to water", "to clean"]
+    },
+    "alias": null
+  },
+  {
+    "word": "tenpo",
+    "defs": {
+      "NOUN": ["time", "duration", "moment", "occasion", "period", "situation"],
+      "ADJECTIVE": ["temporal"]
+    },
+    "alias": null
+  },
+  {
+    "word": "toki",
+    "defs": {
+      "VERB": [
+        "to communicate",
+        "say",
+        "speak",
+        "talk",
+        "use language",
+        "think"
+      ],
+      "NOUN": ["speech", "conversation", "language"],
+      "ADJECTIVE": ["verbal", "conversational"]
+    },
+    "alias": null
+  },
+  {
+    "word": "tomo",
+    "defs": {
+      "NOUN": [
+        "indoor space",
+        "building",
+        "structure",
+        "home",
+        "house",
+        "room"
+      ],
+      "ADJECTIVE": ["indoor"]
+    },
+    "alias": null
+  },
+  {
+    "word": "tu",
+    "defs": {
+      "NUMBER": ["2", "two"],
+      "NOUN": ["divide"],
+      "ADJECTIVE": ["divided"],
+      "VERB": ["to divide"]
+    },
+    "alias": null
+  },
+  {
+    "word": "unpa",
+    "defs": {
+      "VERB": ["to have sex with"],
+      "NOUN": ["sex"],
+      "ADJECTIVE": ["sexual"]
+    },
+    "alias": null
+  },
+  {
+    "word": "uta",
+    "defs": {
+      "NOUN": ["mouth", "lips", "oral cavity", "jaw"],
+      "ADJECTIVE": ["oral"]
+    },
+    "alias": null
+  },
+  {
+    "word": "utala",
+    "defs": {
+      "VERB": [
+        "to fight",
+        "to battle",
+        "challenge",
+        "compete against",
+        "struggle against"
+      ],
+      "NOUN": ["fight", "battle", "challenge", "war"],
+      "ADJECTIVE": ["aggressive", "warlike"]
+    },
+    "alias": null
+  },
+  {
+    "word": "walo",
+    "defs": {
+      "ADJECTIVE": [
+        "white",
+        "whitish",
+        "light-colored",
+        "pale",
+        "bright, light"
+      ],
+      "NOUN": ["the color white (and its shades)"],
+      "VERB": ["to color something white"]
+    },
+    "alias": null
+  },
+  {
+    "word": "wan",
+    "defs": {
+      "ADJECTIVE": ["unique", "united", "married"],
+      "NUMBER": ["1", "one"],
+      "NOUN": ["part (of something)"],
+      "VERB": ["to unite", "to marry"]
+    },
+    "alias": null
+  },
+  {
+    "word": "waso",
+    "defs": { "NOUN": ["bird", "flying creature", "winged animal"] },
+    "alias": null
+  },
+  {
+    "word": "wawa",
+    "defs": {
+      "ADJECTIVE": [
+        "strong",
+        "powerful",
+        "confident",
+        "sure",
+        "energetic",
+        "intense"
+      ],
+      "NOUN": ["strength", "power", "energy"]
+    },
+    "alias": null
+  },
+  {
+    "word": "weka",
+    "defs": {
+      "ADJECTIVE": ["absent", "away", "remote", "ignored"],
+      "NOUN": ["absence", "remoteness"],
+      "VERB": ["remove", "get rid of"]
+    },
+    "alias": null
+  },
+  {
+    "word": "wile",
+    "defs": {
+      "PRE-VERB": [
+        "must",
+        "need",
+        "require",
+        "should",
+        "want",
+        "wish",
+        "to want to do something"
+      ],
+      "NOUN": ["want", "need", "desire"],
+      "ADJECTIVE": ["desired", "needed", "required"],
+      "VERB": ["to want something"]
+    },
+    "alias": null
+  }
+]
