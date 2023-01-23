@@ -1,7 +1,15 @@
 const form = document.getElementById("game_form");
 const glyph = document.getElementById("correct_glyph")
 const answerList = document.getElementById("answer-list")
+const correctGuessesSpan = document.getElementById("correct-guesses")
 let dictionary
+
+const maxGuesses = 15;
+let currentGuesses = 0;
+let correctGuesses = 0;
+
+document.getElementById("max-guesse").textContent = maxGuesses
+correctGuessesSpan.textContent = correctGuesses
 
 fetch("../dictionary.json")
     .then(res => res.json())
@@ -29,12 +37,20 @@ form.addEventListener("submit", function(_) {
     const userGuess = document.getElementById("textfield")
     if (userGuess.value == correct) {
         console.log("correct");
-        answerList.appendChild(makeLi(correct, userGuess))
+        currentGuesses++;
+        correctGuesses++;
+        correctGuessesSpan.textContent = correctGuesses
+        answerList.appendChild(makeLi(correct, userGuess.value))
+
     } else {
         console.log("wrong: " + correct);
-        answerList.appendChild(makeLi(correct, userGuess))
+        currentGuesses++;
+        answerList.appendChild(makeLi(correct, userGuess.value))
     }
     userGuess.value = ""
+    if( currentGuesses == maxGuesses){
+        document.getElementById("submit-button").disabled = true
+    }
   pickRandomWord()
 });
 
@@ -47,9 +63,9 @@ function makeLi(answer, userGuess) {
     const p = document.createElement("p")
 
     if(answer == userGuess) {
-        p.textContent = " 👍 " + answer
+        p.textContent = " ✅ " + answer
     } else {
-        p.textContent = " 👎 "+ answer
+        p.textContent = " ❌ "+ answer
     }
     li.appendChild(p)
     return li

@@ -16,11 +16,11 @@
 
         <div class="game">
             <p id="correct_glyph" class="guessing-glyph linja-pona display">toki+pona</p>
-            <form id="game_form">
+            <form id="game_form" autocomplete="off">
                 <input type="text" id="textfield" name="textfield">
-                <input type="submit" value="Submit">
+                <input type="submit" value="Submit" id="submit-button">
             </form>
-            <p>answers:</p>
+            <p><span id="correct-guesses"></span>/<span id="max-guesse">0</span></p>
             <ul id="answer-list">
 
             </ul>

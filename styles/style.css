@@ -13,3 +13,8 @@
     align-items: center;
     justify-content: center;
 }
+
+#answer-list>li {
+    display: flex;
+    flex-direction: row;
+}
