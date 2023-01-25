@@ -4,12 +4,18 @@
         <meta charset="utf-8" />
         <title>ilo sona pi toki pona</title>
         <link rel="stylesheet" href="https://davidar.github.io/linja-pona/stylesheet.css">
+        <link rel="stylesheet" href="../styles/style.css">
+        <script src="scripts/index.js" defer></script>
     </head>
     <body>
-        <p class="linja-pona">ilo+sona pi+toki+pona</p>
+        <p class="linja-pona display">ilo+sona pi+toki+pona</p>
         <ul class="navbar">
-            <li class="navelm"><a href="html/guess_glyph.html">learn glyphs</a></li>
-            <li class="navelm"><a href="#">learn words</a></li>
+            <li class="navelm"><a href="html/guess_glyph.html">start</a></li>
         </ul>
+
+        <div class="game">
+            <textarea id="output" class="linja-pona" rows="10" cols="500" disabled="true"></textarea>
+            <textarea id="write-tp" rows="10" cols="500" oninput="textareaUpdate()"></textarea>
+        </div>
     </body>
 </html>
