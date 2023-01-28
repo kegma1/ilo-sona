@@ -1,13 +1,31 @@
-const textTp = document.getElementById("write-tp")
-const output = document.getElementById("output")
+const textTp = document.getElementById("write-tp");
+const output = document.getElementById("output");
 
 function textareaUpdate() {
-    output.textContent = textTp.value
+  output.textContent = formatTP(textTp.value);
 }
 
 function formatTP(str) {
-    let inCartouche = false
-    for(let c in str) {
-            
+  str = str.toLowerCase();
+  let inCartouche = false;
+  let formattedStr = "";
+  for (let c of str) {
+    console.log(c);
+    if (c == "[") {
+      inCartouche = true;
+      formattedStr += "[_";
+      continue;
+    } else if (c == "]") {
+      inCartouche = false;
+      formattedStr += "]";
+      continue;
     }
+
+    if (inCartouche && c == " ") {
+      formattedStr += "_";
+    } else {
+      formattedStr += c;
+    }
+  }
+  return formattedStr;
 }
