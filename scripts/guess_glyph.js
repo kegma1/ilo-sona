@@ -2,13 +2,13 @@ const form = document.getElementById("game_form");
 const glyph = document.getElementById("correct_glyph")
 const answerList = document.getElementById("answer-list")
 const correctGuessesSpan = document.getElementById("correct-guesses")
+const nrOfGuessesSpan = document.getElementById("max-guesse")
 let dictionary
-
-const maxGuesses = 15;
+let fiveLatest = []
 let currentGuesses = 0;
 let correctGuesses = 0;
 
-document.getElementById("max-guesse").textContent = maxGuesses
+
 correctGuessesSpan.textContent = correctGuesses
 
 fetch("../dictionary.json")
@@ -40,19 +40,32 @@ form.addEventListener("submit", function(_) {
         currentGuesses++;
         correctGuesses++;
         correctGuessesSpan.textContent = correctGuesses
-        answerList.appendChild(makeLi(correct, userGuess.value))
-
+        updateList(correct, userGuess.value)
     } else {
         console.log("wrong: " + correct);
         currentGuesses++;
-        answerList.appendChild(makeLi(correct, userGuess.value))
+        updateList(correct, userGuess.value)
     }
     userGuess.value = ""
-    if( currentGuesses == maxGuesses){
-        document.getElementById("submit-button").disabled = true
-    }
+    nrOfGuessesSpan.textContent = currentGuesses
   pickRandomWord()
 });
+
+function updateList(answer, userGuess) {
+    if (fiveLatest.length < 5) {
+        fiveLatest.push([answer, userGuess])
+    } else {
+        fiveLatest.shift()
+        fiveLatest.push([answer, userGuess])
+    }
+
+    answerList.innerHTML = ""
+
+    for (let elm of fiveLatest.reverse()) {
+        answerList.appendChild(makeLi(elm[0], elm[1]))
+    }
+    fiveLatest.reverse()
+}
 
 function makeLi(answer, userGuess) {
     const li = document.createElement("li")
