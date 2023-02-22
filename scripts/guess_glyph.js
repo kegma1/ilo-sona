@@ -40,7 +40,7 @@ form.addEventListener("submit", function(_) {
         currentGuesses++;
         correctGuesses++;
         correctGuessesSpan.textContent = correctGuesses
-        updateList(correct, userGuess.value)
+        // updateList(correct, userGuess.value)
     } else {
         console.log("wrong: " + correct);
         currentGuesses++;
@@ -78,7 +78,7 @@ function makeLi(answer, userGuess) {
     if(answer == userGuess) {
         p.textContent = " ✅ " + answer
     } else {
-        p.textContent = " ❌ "+ answer
+        p.textContent = " ❌ "+ answer + " syou answered " + userGuess
     }
     li.appendChild(p)
     return li
