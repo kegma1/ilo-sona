@@ -78,7 +78,7 @@ function makeLi(answer, userGuess) {
     if(answer == userGuess) {
         p.textContent = " ✅ " + answer
     } else {
-        p.textContent = " ❌ "+ answer + " syou answered " + userGuess
+        p.textContent = " ❌ "+ answer + " you answered " + userGuess
     }
     li.appendChild(p)
     return li
